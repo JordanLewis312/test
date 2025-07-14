@@ -1,2 +1,2 @@
 “Git is good”
-"Git is linked to Github!"
+"If I just connected via origin, Git is now linked to Github"
